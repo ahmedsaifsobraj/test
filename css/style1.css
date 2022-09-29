@@ -1,0 +1,26 @@
+.body {
+    font-family: poppins;
+    text-align: justify;
+}
+
+.hname {
+    color: blueviolet;
+}
+
+.about {
+    background-color: antiquewhite;
+    border-radius: 15px 15px;
+    padding: 15px 15px;
+}
+
+.work {
+    background-color: azure;
+    border-radius: 15px 15px;
+    padding: 15px 15px;
+}
+
+.contact {
+    background-color: beige;
+    border-radius: 15px 15px;
+    padding: 15px 15px;
+}
